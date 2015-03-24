@@ -2,6 +2,13 @@ StartChar: aSad.medi
 Encoding: 1114163 -1 51
 Width: 1480
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 601 987 basechar 0
+AnchorPoint: "TwoDotsBelow" 700 -400 basechar 0
+AnchorPoint: "TashkilAbove" 700 1640 basechar 0
+AnchorPoint: "HamzaAbove" 712 987 basechar 0
+AnchorPoint: "DotAbove" 712 987 basechar 0
+AnchorPoint: "TashkilBelow" 800 -670 basechar 0
+AnchorPoint: "DotBelow" 800 -400 basechar 0
 LayerCount: 2
 Back
 SplineSet

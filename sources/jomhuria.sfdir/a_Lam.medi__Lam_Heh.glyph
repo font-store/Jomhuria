@@ -2,6 +2,13 @@ StartChar: aLam.medi_LamHeh
 Encoding: 1114396 -1 378
 Width: 384
 Flags: HW
+AnchorPoint: "TwoDotsAbove" -127 1650 basechar 0
+AnchorPoint: "VAbove" -7 1550 basechar 0
+AnchorPoint: "TashkilAbove" -7 1640 basechar 0
+AnchorPoint: "DotAbove" -7 1650 basechar 0
+AnchorPoint: "Stroke" 20 1116 basechar 0
+AnchorPoint: "TashkilBelow" 63 -670 basechar 0
+AnchorPoint: "TwoDotsBelow" 163 -350 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10,7 +17,7 @@ SplineSet
  60 28 60 28 74 45 c 0,4,5
  115 92 115 92 86 273 c 0,6,7
  -41 1080 -41 1080 -60 1214 c 0,8,9
- -69 1278 -69 1278 -59 1302 c 2
+ -69 1278 -69 1278 -59 1302 c 2,10,-1
  -14 1410 l 1,11,12
  24 1470 24 1470 31 1420 c 0,13,14
  151 471 151 471 206 348 c 0,15,16

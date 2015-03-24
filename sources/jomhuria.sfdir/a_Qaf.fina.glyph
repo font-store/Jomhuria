@@ -2,6 +2,11 @@ StartChar: aQaf.fina
 Encoding: 1114155 -1 43
 Width: 1245
 Flags: HW
+AnchorPoint: "TashkilBelow" 600 -670 basechar 0
+AnchorPoint: "TashkilAbove" 700 1640 basechar 0
+AnchorPoint: "TwoDotsAbove" 849 740 basechar 0
+AnchorPoint: "HamzaAbove" 960 740 basechar 0
+AnchorPoint: "DotAbove" 960 740 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10,14 +15,14 @@ SplineSet
  1240 185 1240 185 1245 185 c 0,4,5
  1274 185 1274 185 1284.5 138.5 c 128,-1,6
  1295 92 1295 92 1284 46 c 128,-1,7
- 1273 0 1273 0 1245 0 c 2
+ 1273 0 1273 0 1245 0 c 2,8,-1
  1166 0 l 1,9,10
  1163 -16 1163 -16 1136.5 -113 c 128,-1,11
  1110 -210 1110 -210 1068 -266 c 0,12,13
  905 -483 905 -483 589 -522 c 0,14,15
  411 -544 411 -544 285 -472 c 0,16,17
  181 -412 181 -412 147 -299 c 0,18,19
- 89 -102 89 -102 227 138 c 1
+ 89 -102 89 -102 227 138 c 1,20,-1
  286 237 l 2,21,22
  295 252 295 252 307 251 c 128,-1,23
  319 250 319 250 323.5 238 c 128,-1,24

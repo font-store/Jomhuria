@@ -2,6 +2,10 @@ StartChar: aTaa.init
 Encoding: 1114169 -1 57
 Width: 1163
 Flags: HW
+AnchorPoint: "TashkilBelow" 500 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 650 1000 basechar 0
+AnchorPoint: "TashkilAbove" 700 1640 basechar 0
+AnchorPoint: "DotAbove" 765 1000 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9,7 +13,7 @@ SplineSet
  264 1462 264 1462 273 1459.5 c 128,-1,2
  282 1457 282 1457 287 1444 c 0,3,4
  338 1326 338 1326 375 1285 c 0,5,6
- 392 1267 392 1267 374 1244 c 2
+ 392 1267 392 1267 374 1244 c 2,7,-1
  333 1192 l 2,8,9
  321 1178 321 1178 323 1148 c 0,10,11
  350 739 350 739 350 696 c 0,12,13
@@ -24,7 +28,7 @@ SplineSet
  -21 -1 -21 -1 -35.5 45 c 128,-1,30
  -50 91 -50 91 -42 137 c 128,-1,31
  -34 183 -34 183 0 185 c 0,32,33
- 87 189 87 189 135 196 c 1
+ 87 189 87 189 135 196 c 1,34,-1
  250 307 l 1,35,36
  254 323 254 323 258 384 c 0,37,38
  262 446 262 446 261 542 c 128,-1,39

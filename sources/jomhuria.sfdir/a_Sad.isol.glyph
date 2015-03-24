@@ -2,6 +2,13 @@ StartChar: aSad.isol
 Encoding: 1114162 -1 50
 Width: 2484
 Flags: HW
+AnchorPoint: "TashkilBelow" 700 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 1570 1110 basechar 0
+AnchorPoint: "TashkilAbove" 1680 1640 basechar 0
+AnchorPoint: "HamzaAbove" 1681 1110 basechar 0
+AnchorPoint: "DotAbove" 1681 1110 basechar 0
+AnchorPoint: "TwoDotsBelow" 1700 -200 basechar 0
+AnchorPoint: "DotBelow" 1800 -200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -27,9 +34,9 @@ SplineSet
  1159 -83 1159 -83 1195 7 c 0,35,36
  1200 18 1200 18 1197 36 c 0,37,38
  1167 231 1167 231 1092 335 c 0,39,40
- 1076 358 1076 358 1081 371 c 2
+ 1076 358 1076 358 1081 371 c 2,41,-1
  1144 539 l 1,42,43
- 1162 574 1162 574 1180 544 c 2
+ 1162 574 1162 574 1180 544 c 2,44,-1
  1256 416 l 1,45,46
  1328 372 1328 372 1486 366 c 1,47,48
  1664 546 1664 546 1844.5 675 c 128,-1,49

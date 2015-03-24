@@ -2,10 +2,25 @@ StartChar: aBaa.init
 Encoding: 1114120 -1 8
 Width: 390
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 60 800 basechar 0
+AnchorPoint: "TwoDotsBelowAlt" 120 -750 basechar 0
+AnchorPoint: "TwoDotsBelow" 120 -350 basechar 0
+AnchorPoint: "TashkilAbove" 120 1640 basechar 0
+AnchorPoint: "DotBelowAlt" 170 -750 basechar 0
+AnchorPoint: "TashkilBelow" 170 -670 basechar 0
+AnchorPoint: "DotBelow" 170 -350 basechar 0
+AnchorPoint: "DigitBelow" 170 -350 basechar 0
+AnchorPoint: "TaaAbove" 175 700 basechar 0
+AnchorPoint: "VAbove" 175 800 basechar 0
+AnchorPoint: "HamzaAbove" 175 800 basechar 0
+AnchorPoint: "DigitAbove" 175 900 basechar 0
+AnchorPoint: "DotAbove" 175 900 basechar 0
+AnchorPoint: "RingBelow" 220 150 basechar 0
+AnchorPoint: "HighHamza" 425 800 basechar 0
 LayerCount: 2
 Back
 SplineSet
-122 433 m 2
+122 433 m 2,0,-1
  180 560 l 2,1,2
  198 599 198 599 218 561 c 0,3,4
  299 412 299 412 248 201 c 0,5,6
@@ -15,7 +30,7 @@ SplineSet
  121 180 121 180 182 250 c 0,13,14
  185 254 185 254 183 264 c 0,15,16
  171 323 171 323 128 383 c 0,17,18
- 110 408 110 408 122 433 c 2
+ 110 408 110 408 122 433 c 2,0,-1
 EndSplineSet
 Fore
 SplineSet

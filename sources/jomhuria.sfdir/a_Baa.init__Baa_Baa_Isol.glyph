@@ -2,6 +2,22 @@ StartChar: aBaa.init_BaaBaaIsol
 Encoding: 1114261 -1 150
 Width: 506
 Flags: HW
+AnchorPoint: "TashkilAbove" 1 1640 basechar 0
+AnchorPoint: "TwoDotsBelowAlt" 118 -1052 basechar 0
+AnchorPoint: "TwoDotsBelow" 130 -360 basechar 0
+AnchorPoint: "TashkilBelow" 150 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 182 825 basechar 0
+AnchorPoint: "RingBelow" 220 80 basechar 0
+AnchorPoint: "HamzaBelow" 230 -360 basechar 0
+AnchorPoint: "DotBelow" 230 -360 basechar 0
+AnchorPoint: "DigitBelow" 230 -360 basechar 0
+AnchorPoint: "HamzaAbove" 270 825 basechar 0
+AnchorPoint: "VAbove" 270 825 basechar 0
+AnchorPoint: "DotBelowAlt" 294 -964 basechar 0
+AnchorPoint: "TaaAbove" 303 625 basechar 0
+AnchorPoint: "DotAbove" 303 825 basechar 0
+AnchorPoint: "DigitAbove" 303 825 basechar 0
+AnchorPoint: "HighHamza" 470 825 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11,7 +27,7 @@ SplineSet
  154 164 154 164 309 166 c 0,6,7
  316 166 316 166 316 175 c 0,8,9
  316 185 316 185 284 221 c 0,10,11
- 277 229 277 229 281 241 c 2
+ 277 229 277 229 281 241 c 2,12,-1
  329 383 l 2,13,14
  333 396 333 396 342 396 c 128,-1,15
  351 396 351 396 355 386 c 0,16,17

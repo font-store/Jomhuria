@@ -2,11 +2,13 @@ StartChar: aAlf.fina.alt
 Encoding: 1114112 -1 0
 Width: 1613
 Flags: HW
+AnchorPoint: "TashkilBelow" 477 -670 basechar 0
+AnchorPoint: "TashkilAbove" 750 1450 basechar 0
 LayerCount: 2
 Back
 SplineSet
 344 1538 m 0,0,1
- 373 1538 373 1538 369 1509 c 2
+ 373 1538 373 1538 369 1509 c 2,2,-1
  353 1382 l 2,3,4
  349 1350 349 1350 321 1347 c 0,5,6
  253 1340 253 1340 229.5 1327.5 c 128,-1,7

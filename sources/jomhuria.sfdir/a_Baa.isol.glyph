@@ -2,6 +2,18 @@ StartChar: aBaa.isol
 Encoding: 1114121 -1 9
 Width: 1897
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 834 870 basechar 0
+AnchorPoint: "RingBelow" 850 60 basechar 0
+AnchorPoint: "TwoDotsBelow" 900 -300 basechar 0
+AnchorPoint: "TaaAbove" 945 670 basechar 0
+AnchorPoint: "DotAbove" 945 870 basechar 0
+AnchorPoint: "HamzaAbove" 945 870 basechar 0
+AnchorPoint: "VAbove" 945 870 basechar 0
+AnchorPoint: "TashkilAbove" 945 1640 basechar 0
+AnchorPoint: "DotBelow" 1000 -400 basechar 0
+AnchorPoint: "DigitBelow" 1000 -400 basechar 0
+AnchorPoint: "HamzaBelow" 1000 -300 basechar 0
+AnchorPoint: "TashkilBelow" 1100 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet

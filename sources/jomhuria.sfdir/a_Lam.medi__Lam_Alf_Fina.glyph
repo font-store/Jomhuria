@@ -2,10 +2,17 @@ StartChar: aLam.medi_LamAlfFina
 Encoding: 1114249 -1 138
 Width: 502
 Flags: HW
+AnchorPoint: "TashkilBelow" 0 -670 basechar 0
+AnchorPoint: "TwoDotsBelow" 0 -150 basechar 0
+AnchorPoint: "TwoDotsAbove" 60 1600 basechar 0
+AnchorPoint: "TashkilAbove" 120 1640 basechar 0
+AnchorPoint: "VAbove" 175 1600 basechar 0
+AnchorPoint: "DotAbove" 175 1680 basechar 0
+AnchorPoint: "Stroke" 187 1116 basechar 0
 LayerCount: 2
 Back
 SplineSet
-140 1298 m 2
+140 1298 m 2,0,-1
  195 1382 l 2,1,2
  229 1435 229 1435 235 1359 c 0,3,4
  290 614 290 614 341.5 413 c 128,-1,5
@@ -26,7 +33,7 @@ SplineSet
  -67 226 -67 226 -9 340 c 0,30,31
  69 495 69 495 99.5 762.5 c 128,-1,32
  130 1030 130 1030 126.5 1151 c 128,-1,33
- 123 1272 123 1272 140 1298 c 2
+ 123 1272 123 1272 140 1298 c 2,0,-1
 EndSplineSet
 Fore
 SplineSet

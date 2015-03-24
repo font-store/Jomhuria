@@ -2,6 +2,8 @@ StartChar: aMem.fina_KafMemIsol
 Encoding: 1114422 -1 404
 Width: 416
 Flags: HW
+AnchorPoint: "TashkilAbove" 180 1640 basechar 0
+AnchorPoint: "TashkilBelow" 580 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -14,7 +16,7 @@ SplineSet
  697 25 697 25 671 28 c 0,10,11
  452 56 452 56 282 10 c 0,12,13
  179 -18 179 -18 133 -67 c 1,14,15
- 129 -78 129 -78 149 -202 c 2
+ 129 -78 129 -78 149 -202 c 2,16,-1
  195 -494 l 1,17,18
  223 -663 223 -663 229 -741 c 0,19,20
  241 -915 241 -915 207 -1021 c 0,21,22

@@ -2,6 +2,8 @@ StartChar: aHeh.medi_LamHehInit
 Encoding: 1114235 -1 124
 Width: 492
 Flags: HW
+AnchorPoint: "TashkilBelow" 200 -670 basechar 0
+AnchorPoint: "TashkilAbove" 240 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet

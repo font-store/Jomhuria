@@ -2,17 +2,23 @@ StartChar: aAlf.fina_LamAlfIsol
 Encoding: 1114209 -1 98
 Width: 698
 Flags: HW
+AnchorPoint: "TashkilAbove" 0 1640 basechar 0
+AnchorPoint: "DigitAbove" 50 1300 basechar 0
+AnchorPoint: "TashkilBelow" 310 -670 basechar 0
+AnchorPoint: "HamzaAbove" 435 1609 basechar 0
+AnchorPoint: "HamzaBelow" 553 -280 basechar 0
+AnchorPoint: "HighHamza" 835 1609 basechar 0
 LayerCount: 2
 Back
 SplineSet
 571 123 m 0,0,1
  866 93 866 93 951 125 c 1,2,3
  930 324 930 324 662 699 c 0,4,5
- 469 970 469 970 374 1060 c 1
+ 469 970 469 970 374 1060 c 1,6,-1
  345 1007 l 1,7,8
- 317 989 317 989 295 1015 c 1
+ 317 989 317 989 295 1015 c 1,9,-1
  154 1167 l 1,10,11
- 124 1202 124 1202 130 1247 c 2
+ 124 1202 124 1202 130 1247 c 2,12,-1
  157 1426 l 2,13,14
  161 1453 161 1453 176 1454 c 0,15,16
  218 1457 218 1457 406 1231 c 0,17,18

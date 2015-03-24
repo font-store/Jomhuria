@@ -2,6 +2,15 @@ StartChar: aSen.medi
 Encoding: 1114167 -1 55
 Width: 1165
 Flags: HW
+AnchorPoint: "TwoDotsBelow" 450 -300 basechar 0
+AnchorPoint: "TwoDotsAbove" 484 777 basechar 0
+AnchorPoint: "TashkilAbove" 500 1640 basechar 0
+AnchorPoint: "DotBelow" 550 -400 basechar 0
+AnchorPoint: "DotAbove" 595 777 basechar 0
+AnchorPoint: "HamzaAbove" 595 777 basechar 0
+AnchorPoint: "VAbove" 595 777 basechar 0
+AnchorPoint: "DigitAbove" 595 777 basechar 0
+AnchorPoint: "TashkilBelow" 620 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet

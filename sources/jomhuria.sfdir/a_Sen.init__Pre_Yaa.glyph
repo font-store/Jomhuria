@@ -2,6 +2,14 @@ StartChar: aSen.init_PreYaa
 Encoding: 1114294 -1 186
 Width: 706
 Flags: HW
+AnchorPoint: "TashkilBelow" 0 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 110 870 basechar 0
+AnchorPoint: "TwoDotsBelow" 221 -200 basechar 0
+AnchorPoint: "DotAbove" 221 870 basechar 0
+AnchorPoint: "VAbove" 221 870 basechar 0
+AnchorPoint: "DigitAbove" 221 870 basechar 0
+AnchorPoint: "TashkilAbove" 221 1640 basechar 0
+AnchorPoint: "DotBelow" 321 -200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -23,7 +31,7 @@ SplineSet
  424 272 424 272 499 269 c 0,25,26
  504 269 504 269 499 287 c 128,-1,27
  494 305 494 305 463 344 c 0,28,29
- 457 351 457 351 461 363 c 2
+ 457 351 457 351 461 363 c 2,30,-1
  520 535 l 2,0,1
 EndSplineSet
 Fore

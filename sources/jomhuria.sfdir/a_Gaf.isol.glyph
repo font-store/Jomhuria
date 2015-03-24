@@ -2,6 +2,14 @@ StartChar: aGaf.isol
 Encoding: 1118821 -1 5803
 Width: 2463
 Flags: HW
+AnchorPoint: "TashkilBelow" 963 -670 basechar 0
+AnchorPoint: "TashkilAbove" 1063 1640 basechar 0
+AnchorPoint: "TwoDotsBelow" 1273 -164 basechar 0
+AnchorPoint: "TwoDotsAbove" 1285 1426 basechar 0
+AnchorPoint: "DotBelow" 1383 -164 basechar 0
+AnchorPoint: "DotAbove" 1395 1426 basechar 0
+AnchorPoint: "RingBelow" 1733 1236 basechar 0
+AnchorPoint: "Dash" 1737 1406 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13,7 +21,7 @@ SplineSet
  1531 1299 1531 1299 2303 1540 c 0,10,11
  2319 1545 2319 1545 2327 1545 c 0,12,13
  2339 1545 2339 1545 2339 1531 c 0,14,15
- 2339 1528 2339 1528 2336 1517 c 2
+ 2339 1528 2339 1528 2336 1517 c 2,16,-1
  2296 1373 l 2,17,18
  2288 1343 2288 1343 2269 1337 c 0,19,20
  1388 1022 1388 1022 1247 881 c 0,21,22

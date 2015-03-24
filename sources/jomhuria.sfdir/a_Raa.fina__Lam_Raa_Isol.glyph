@@ -2,6 +2,17 @@ StartChar: aRaa.fina_LamRaaIsol
 Encoding: 1114274 -1 163
 Width: 897
 Flags: HW
+AnchorPoint: "DotAlt" 442 12 basechar 0
+AnchorPoint: "TashkilAbove" 451 1640 basechar 0
+AnchorPoint: "RingBelow" 474 -284 basechar 0
+AnchorPoint: "DotBelow" 520 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 560 946 basechar 0
+AnchorPoint: "TashkilBelow" 670 -670 basechar 0
+AnchorPoint: "TaaAbove" 671 744 basechar 0
+AnchorPoint: "VAbove" 671 944 basechar 0
+AnchorPoint: "HamzaAbove" 671 944 basechar 0
+AnchorPoint: "DotAbove" 671 946 basechar 0
+AnchorPoint: "Stroke" 860 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -18,7 +29,7 @@ SplineSet
  802 -34 802 -34 871 106 c 0,16,17
  880 124 880 124 874 158 c 128,-1,18
  868 192 868 192 801 256 c 0,19,20
- 792 264 792 264 799 283 c 2
+ 792 264 792 264 799 283 c 2,21,-1
  847 428 l 2,22,23
  851 440 851 440 861 440.5 c 128,-1,24
  871 441 871 441 877 432 c 1,0,1

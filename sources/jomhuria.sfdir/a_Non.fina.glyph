@@ -2,6 +2,15 @@ StartChar: aNon.fina
 Encoding: 1114152 -1 40
 Width: 1260
 Flags: HW
+AnchorPoint: "TwoDotsBelow" 437 -995 basechar 0
+AnchorPoint: "DotBelow" 547 -995 basechar 0
+AnchorPoint: "RingBelow" 547 -595 basechar 0
+AnchorPoint: "TwoDotsAbove" 569 640 basechar 0
+AnchorPoint: "TashkilBelow" 650 -800 basechar 0
+AnchorPoint: "TaaAbove" 680 400 basechar 0
+AnchorPoint: "HamzaAbove" 680 500 basechar 0
+AnchorPoint: "DotAbove" 680 640 basechar 0
+AnchorPoint: "TashkilAbove" 680 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11,7 +20,7 @@ SplineSet
  1200 185 1200 185 1260 185 c 0,5,6
  1303 185 1303 185 1308 141.5 c 128,-1,7
  1313 98 1313 98 1295 49.5 c 128,-1,8
- 1277 1 1277 1 1260 0 c 1
+ 1277 1 1277 1 1260 0 c 1,9,-1
  1197 0 l 1,10,11
  1185 -237 1185 -237 1050 -442 c 0,12,13
  895 -677 895 -677 530 -689 c 0,14,15
@@ -25,7 +34,7 @@ SplineSet
  244 -464 244 -464 555 -467 c 1,26,27
  895 -469 895 -469 1070 -280 c 1,28,29
  1103 -34 1103 -34 1030 131 c 0,30,31
- 1017 160 1017 160 1020 166 c 2
+ 1017 160 1017 160 1020 166 c 2,32,-1
  1079 303 l 2,0,1
 EndSplineSet
 Fore

@@ -2,6 +2,15 @@ StartChar: aSen.isol
 Encoding: 1114166 -1 54
 Width: 2032
 Flags: HW
+AnchorPoint: "TashkilBelow" 700 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 1421 1070 basechar 0
+AnchorPoint: "TwoDotsBelow" 1500 -200 basechar 0
+AnchorPoint: "TashkilAbove" 1500 1640 basechar 0
+AnchorPoint: "DotAbove" 1532 1070 basechar 0
+AnchorPoint: "HamzaAbove" 1532 1070 basechar 0
+AnchorPoint: "VAbove" 1532 1070 basechar 0
+AnchorPoint: "DigitAbove" 1532 1070 basechar 0
+AnchorPoint: "DotBelow" 1600 -200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -38,7 +47,7 @@ SplineSet
  1646 682 1646 682 1628 578 c 1,52,53
  1710 518 1710 518 1810 528 c 1,54,55
  1811 559 1811 559 1800 572 c 128,-1,56
- 1789 585 1789 585 1792 596 c 2
+ 1789 585 1789 585 1792 596 c 2,57,-1
  1829 744 l 2,0,1
 EndSplineSet
 Fore

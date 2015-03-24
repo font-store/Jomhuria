@@ -2,6 +2,14 @@ StartChar: aFaa.isol
 Encoding: 1114127 -1 15
 Width: 2015
 Flags: HW
+AnchorPoint: "DotAlt" 1000 -300 basechar 0
+AnchorPoint: "TashkilBelow" 1078 -670 basechar 0
+AnchorPoint: "TwoDotsAbove" 1189 1350 basechar 0
+AnchorPoint: "HamzaAbove" 1300 1350 basechar 0
+AnchorPoint: "DotAbove" 1300 1350 basechar 0
+AnchorPoint: "TashkilAbove" 1300 1640 basechar 0
+AnchorPoint: "TwoDotsBelow" 1600 -100 basechar 0
+AnchorPoint: "DotBelow" 1700 -100 basechar 0
 LayerCount: 2
 Back
 SplineSet

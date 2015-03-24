@@ -2,6 +2,17 @@ StartChar: aRaa.isol
 Encoding: 1114159 -1 47
 Width: 819
 Flags: HW
+AnchorPoint: "DotAlt" 142 -68 basechar 0
+AnchorPoint: "RingBelow" 194 -354 basechar 0
+AnchorPoint: "TwoDotsAbove" 266 938 basechar 0
+AnchorPoint: "TaaAbove" 328 888 basechar 0
+AnchorPoint: "DotAbove" 328 1088 basechar 0
+AnchorPoint: "HamzaAbove" 378 938 basechar 0
+AnchorPoint: "VAbove" 378 938 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
+AnchorPoint: "TashkilBelow" 508 -670 basechar 0
+AnchorPoint: "DotBelow" 560 -541 basechar 0
+AnchorPoint: "Stroke" 650 64 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -21,7 +32,7 @@ SplineSet
  526 -118 526 -118 614 50 c 0,21,22
  622 65 622 65 618 82 c 0,23,24
  588 190 588 190 458 351 c 0,25,26
- 452 360 452 360 454 366 c 2
+ 452 360 452 360 454 366 c 2,27,-1
  504 571 l 2,0,1
 EndSplineSet
 Fore

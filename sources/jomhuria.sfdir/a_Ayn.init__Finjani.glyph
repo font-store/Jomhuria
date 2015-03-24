@@ -2,10 +2,16 @@ StartChar: aAyn.init_Finjani
 Encoding: 1114291 -1 183
 Width: 800
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 117 1034 basechar 0
+AnchorPoint: "HamzaAbove" 229 1034 basechar 0
+AnchorPoint: "DotAbove" 229 1034 basechar 0
+AnchorPoint: "TashkilAbove" 229 1640 basechar 0
+AnchorPoint: "TashkilBelow" 421 -670 basechar 0
+AnchorPoint: "DotBelow" 421 -225 basechar 0
 LayerCount: 2
 Back
 SplineSet
-691 334 m 2
+691 334 m 2,0,-1
  634 211 l 2,1,2
  623 187 623 187 609 177 c 0,3,4
  485 89 485 89 291 36 c 0,5,6
@@ -23,10 +29,10 @@ SplineSet
  110 561 110 561 94 516 c 0,29,30
  78 470 78 470 148 360 c 0,31,32
  221 246 221 246 278 234 c 0,33,34
- 410 207 410 207 538 291 c 2
+ 410 207 410 207 538 291 c 2,35,-1
  599 331 l 2,36,37
  668 376 668 376 684 360 c 0,38,39
- 697 347 697 347 691 334 c 2
+ 697 347 697 347 691 334 c 2,0,-1
 EndSplineSet
 Fore
 SplineSet

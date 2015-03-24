@@ -2,6 +2,13 @@ StartChar: aLam.init_LamMemHaaInit
 Encoding: 1114246 -1 135
 Width: 572
 Flags: HW
+AnchorPoint: "TwoDotsAbove" -158 1758 basechar 0
+AnchorPoint: "VAbove" -38 1658 basechar 0
+AnchorPoint: "DotAbove" -38 1758 basechar 0
+AnchorPoint: "Stroke" 0 1196 basechar 0
+AnchorPoint: "TashkilAbove" 230 1640 basechar 0
+AnchorPoint: "TwoDotsBelow" 250 -30 basechar 0
+AnchorPoint: "TashkilBelow" 420 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -20,7 +27,7 @@ SplineSet
  11 751 11 751 4 837 c 0,16,17
  2 867 2 867 -30 1060 c 0,18,19
  -77 1349 -77 1349 -90 1383 c 128,-1,20
- -103 1417 -103 1417 -94 1442 c 2
+ -103 1417 -103 1417 -94 1442 c 2,21,-1
  -60 1533 l 2,0,1
 EndSplineSet
 Fore

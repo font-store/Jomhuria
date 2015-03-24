@@ -2,6 +2,10 @@ StartChar: aYaaBari.fina_PostTooth
 Encoding: 1118442 -1 4656
 Width: 875
 Flags: HW
+AnchorPoint: "TashkilBelow" 500 -670 basechar 0
+AnchorPoint: "DigitAbove" 500 1100 basechar 0
+AnchorPoint: "TashkilAbove" 500 1640 basechar 0
+AnchorPoint: "HamzaAbove" 600 1100 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19,7 +23,7 @@ SplineSet
  296 152 296 152 385 142 c 0,21,22
  541 124 541 124 1188 152 c 0,23,24
  1836 180 1836 180 2203 179 c 0,25,26
- 2261 179 2261 179 2236 133 c 2
+ 2261 179 2261 179 2236 133 c 2,27,-1
  2192 50 l 2,28,29
  2165 0 2165 0 2129 0 c 0,30,31
  1781 1 1781 1 1227 -23 c 128,-1,32

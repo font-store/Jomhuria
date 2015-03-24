@@ -3,6 +3,9 @@ Encoding: 1624 1624 4625
 Width: 0
 GlyphClass: 4
 Flags: HW
+AnchorPoint: "MarkAbove" 369 1640 mark 0
+AnchorPoint: "TashkilAbove" 372 1640 mark 0
+AnchorPoint: "TashkilAboveDot" 372 1640 mark 0
 LayerCount: 2
 Back
 SplineSet

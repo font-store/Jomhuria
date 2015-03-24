@@ -2,6 +2,8 @@ StartChar: aMem.fina
 Encoding: 1114147 -1 35
 Width: 1070
 Flags: HW
+AnchorPoint: "TashkilAbove" 474 1640 basechar 0
+AnchorPoint: "TashkilBelow" 700 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet

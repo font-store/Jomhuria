@@ -2,6 +2,17 @@ StartChar: aDal.fina
 Encoding: 1114123 -1 11
 Width: 965
 Flags: HW
+AnchorPoint: "TwoDotsBelow" 389 -250 basechar 0
+AnchorPoint: "RingBelow" 420 120 basechar 0
+AnchorPoint: "TashkilAbove" 475 1640 basechar 0
+AnchorPoint: "TashkilBelow" 500 -670 basechar 0
+AnchorPoint: "DotBelow" 500 -250 basechar 0
+AnchorPoint: "HamzaBelow" 500 -250 basechar 0
+AnchorPoint: "TwoDotsAbove" 574 1300 basechar 0
+AnchorPoint: "TaaAbove" 685 1200 basechar 0
+AnchorPoint: "VAbove" 685 1200 basechar 0
+AnchorPoint: "HamzaAbove" 685 1300 basechar 0
+AnchorPoint: "DotAbove" 685 1300 basechar 0
 LayerCount: 2
 Back
 SplineSet

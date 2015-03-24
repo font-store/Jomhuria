@@ -2,6 +2,21 @@ StartChar: aYaa.fina_KafYaaIsol
 Encoding: 1114418 -1 400
 Width: 975
 Flags: HW
+AnchorPoint: "HamzaAbove" 270 730 basechar 0
+AnchorPoint: "AlefAbove" 270 730 basechar 0
+AnchorPoint: "Tail" 298 430 basechar 0
+AnchorPoint: "TwoDotsAbove" 360 730 basechar 0
+AnchorPoint: "VAbove" 370 730 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
+AnchorPoint: "DotAbove" 470 730 basechar 0
+AnchorPoint: "DigitAbove" 470 730 basechar 0
+AnchorPoint: "RingBelow" 600 -341 basechar 0
+AnchorPoint: "TwoDotsBelow" 617 -739 basechar 0
+AnchorPoint: "HighHamza" 708 325 basechar 0
+AnchorPoint: "HamzaBelow" 728 -739 basechar 0
+AnchorPoint: "DotBelow" 728 -739 basechar 0
+AnchorPoint: "DigitBelow" 728 -739 basechar 0
+AnchorPoint: "TashkilBelow" 728 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -23,7 +38,7 @@ SplineSet
  930 -246 930 -246 1284 58 c 0,23,24
  1290 64 1290 64 1283 71 c 0,25,26
  1220 138 1220 138 884 141 c 0,27,28
- 868 141 868 141 876 157 c 2
+ 868 141 868 141 876 157 c 2,29,-1
  924 267 l 1,0,1
 EndSplineSet
 Fore

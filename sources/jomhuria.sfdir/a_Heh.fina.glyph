@@ -2,6 +2,11 @@ StartChar: aHeh.fina
 Encoding: 1114133 -1 21
 Width: 777
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 179 1100 basechar 0
+AnchorPoint: "DotAbove" 290 1100 basechar 0
+AnchorPoint: "TashkilAbove" 290 1640 basechar 0
+AnchorPoint: "TashkilBelow" 390 -670 basechar 0
+AnchorPoint: "HamzaAbove" 400 1100 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -24,7 +29,7 @@ SplineSet
  204 462 204 462 224 482 c 0,24,25
  333 585 333 585 482 666 c 1,26,27
  476 750 476 750 475.5 790.5 c 128,-1,28
- 475 831 475 831 494 857 c 2
+ 475 831 475 831 494 857 c 2,29,-1
  525 900 l 2,0,1
 496 541 m 1,30,31
  337 496 337 496 267 403 c 0,32,33

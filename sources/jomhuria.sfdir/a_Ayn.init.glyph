@@ -2,13 +2,19 @@ StartChar: aAyn.init
 Encoding: 1114116 -1 4
 Width: 978
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 190 1100 basechar 0
+AnchorPoint: "DotAbove" 300 1100 basechar 0
+AnchorPoint: "HamzaAbove" 300 1100 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
+AnchorPoint: "TashkilBelow" 490 -670 basechar 0
+AnchorPoint: "DotBelow" 490 -200 basechar 0
 LayerCount: 2
 Back
 SplineSet
-848 515 m 2
+848 515 m 2,0,-1
  806 351 l 2,1,2
  801 333 801 333 771 322 c 0,3,4
- 650 278 650 278 471 204 c 1
+ 650 278 650 278 471 204 c 1,5,-1
  0 0 l 1,6,7
  -45 0 -45 0 -61.5 75.5 c 128,-1,8
  -78 151 -78 151 0 185 c 0,9,10
@@ -25,7 +31,7 @@ SplineSet
  290 384 290 384 346 375 c 0,27,28
  510 350 510 350 726 488 c 0,29,30
  770 516 770 516 804 534 c 1,31,32
- 861 567 861 567 848 515 c 2
+ 861 567 861 567 848 515 c 2,0,-1
 EndSplineSet
 Fore
 SplineSet

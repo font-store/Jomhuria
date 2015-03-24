@@ -2,6 +2,13 @@ StartChar: aLam.medi_KafMemLam
 Encoding: 1114387 -1 369
 Width: 389
 Flags: HW
+AnchorPoint: "TashkilAbove" 0 1640 basechar 0
+AnchorPoint: "TwoDotsAbove" 0 1750 basechar 0
+AnchorPoint: "TwoDotsBelow" 100 -150 basechar 0
+AnchorPoint: "VAbove" 120 1650 basechar 0
+AnchorPoint: "DotAbove" 120 1750 basechar 0
+AnchorPoint: "Stroke" 127 1226 basechar 0
+AnchorPoint: "TashkilBelow" 150 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -16,9 +23,9 @@ SplineSet
  127 189 127 189 147 311 c 0,16,17
  148 318 148 318 105 830 c 1,18,19
  66 1278 66 1278 62 1354 c 0,20,21
- 59 1395 59 1395 66 1407 c 1
+ 59 1395 59 1395 66 1407 c 1,22,-1
  119 1521 l 2,23,24
- 145 1577 145 1577 151 1507 c 2
+ 145 1577 145 1577 151 1507 c 2,25,-1
  201 985 l 2,0,1
 EndSplineSet
 Fore

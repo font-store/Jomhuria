@@ -2,6 +2,17 @@ StartChar: aWaw.isol
 Encoding: 1114173 -1 61
 Width: 1121
 Flags: HW
+AnchorPoint: "RingBelow" 540 -20 basechar 0
+AnchorPoint: "TwoDotsAbove" 599 900 basechar 0
+AnchorPoint: "HamzaAbove" 710 900 basechar 0
+AnchorPoint: "DotAbove" 710 900 basechar 0
+AnchorPoint: "DigitAbove" 710 900 basechar 0
+AnchorPoint: "TashkilAbove" 730 1640 basechar 0
+AnchorPoint: "VAbove" 796 842 basechar 0
+AnchorPoint: "AlefAbove" 800 650 basechar 0
+AnchorPoint: "TashkilBelow" 810 -670 basechar 0
+AnchorPoint: "Stroke" 878 -42 basechar 0
+AnchorPoint: "HighHamza" 1110 900 basechar 0
 LayerCount: 2
 Back
 SplineSet

@@ -2,6 +2,13 @@ StartChar: aLam.init_LamAlfIsol
 Encoding: 1114208 -1 97
 Width: 619
 Flags: HW
+AnchorPoint: "VAbove" 111 1388 basechar 0
+AnchorPoint: "TashkilBelow" 240 -730 basechar 0
+AnchorPoint: "TwoDotsAbove" 270 1650 basechar 0
+AnchorPoint: "TwoDotsBelow" 280 -150 basechar 0
+AnchorPoint: "DotAbove" 390 1715 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
+AnchorPoint: "Stroke" 407 1096 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -16,7 +23,7 @@ SplineSet
  416 1496 416 1496 428.5 1493.5 c 128,-1,14
  441 1491 441 1491 444 1479 c 0,15,16
  475 1360 475 1360 505 1325.5 c 128,-1,17
- 535 1291 535 1291 508 1264 c 2
+ 535 1291 535 1291 508 1264 c 2,18,-1
  451 1205 l 1,19,20
  459 975 459 975 400 673 c 0,21,22
  331 320 331 320 117 110 c 0,0,1

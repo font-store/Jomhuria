@@ -3,6 +3,7 @@ Encoding: 1114322 -1 220
 Width: 0
 GlyphClass: 4
 Flags: HW
+AnchorPoint: "Dash" -96 72 mark 0
 LayerCount: 2
 Back
 SplineSet

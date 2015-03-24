@@ -2,6 +2,8 @@ StartChar: aHehKnotted.isol
 Encoding: 1118596 -1 4810
 Width: 1246
 Flags: HW
+AnchorPoint: "TashkilBelow" 700 -670 basechar 0
+AnchorPoint: "TashkilAbove" 700 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -33,7 +35,7 @@ SplineSet
  1002 -20 1002 -20 794 -10 c 0,38,39
  644 -3 644 -3 542 32 c 1,40,41
  438 -31 438 -31 300 -62 c 1,42,43
- 256 -73 256 -73 234 -62 c 2
+ 256 -73 256 -73 234 -62 c 2,44,-1
  130 -10 l 1,45,46
  55 30 55 30 163 53 c 0,47,48
  309 83 309 83 419 118 c 1,20,21

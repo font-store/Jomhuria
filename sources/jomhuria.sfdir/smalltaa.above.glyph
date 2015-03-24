@@ -3,6 +3,10 @@ Encoding: 1114314 -1 212
 Width: 0
 GlyphClass: 4
 Flags: HW
+AnchorPoint: "MarkDotAbove" -40 750 basemark 0
+AnchorPoint: "TashkilAboveDot" -40 750 basemark 0
+AnchorPoint: "TaaAbove" 0 0 mark 0
+AnchorPoint: "MarkDotAbove" 0 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -18,7 +22,7 @@ SplineSet
  -201 9 -201 9 -235.5 39 c 128,-1,15
  -270 69 -270 69 -277 84.5 c 128,-1,16
  -284 100 -284 100 -273 98 c 0,17,18
- -197 90 -197 90 -117 97 c 1
+ -197 90 -197 90 -117 97 c 1,19,-1
  -63 150 l 1,20,21
  -56 295 -56 295 -97 551 c 0,22,23
  -98 556 -98 556 -87 584 c 128,-1,24

@@ -2,16 +2,19 @@ StartChar: uni0640.1
 Encoding: 1118419 -1 4633
 Width: 380
 Flags: HW
+AnchorPoint: "MarkBelow" 190 -670 basechar 0
+AnchorPoint: "AlefAbove" 190 500 basechar 0
+AnchorPoint: "MarkAbove" 190 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
 0 0 m 0,0,1
- -18 1 -18 1 -26 31 c 2
+ -18 1 -18 1 -26 31 c 2,2,-1
  -52 120 l 1,3,4
  -69 188 -69 188 0 185 c 0,5,6
  95 180 95 180 190 180 c 0,7,8
  285 180 285 180 380 185 c 0,9,10
- 449 188 449 188 432 120 c 1
+ 449 188 449 188 432 120 c 1,11,-1
  406 31 l 2,12,13
  398 1 398 1 380 0 c 0,14,15
  285 -6 285 -6 190 -6 c 0,16,17

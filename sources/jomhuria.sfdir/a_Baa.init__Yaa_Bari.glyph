@@ -3,6 +3,20 @@ Encoding: 1118469 -1 4683
 Width: 1620
 VWidth: 0
 Flags: HW
+AnchorPoint: "TwoDotsAbove" -408 1524 basechar 0
+AnchorPoint: "TaaAbove" -297 1324 basechar 0
+AnchorPoint: "DigitAbove" -297 1524 basechar 0
+AnchorPoint: "VAbove" -297 1524 basechar 0
+AnchorPoint: "DotAbove" -297 1524 basechar 0
+AnchorPoint: "HamzaAbove" -297 1524 basechar 0
+AnchorPoint: "HighHamza" -97 1524 basechar 0
+AnchorPoint: "RingBelow" -42 550 basechar 0
+AnchorPoint: "DigitBelow" 74 -263 basechar 0
+AnchorPoint: "DotBelow" 74 -263 basechar 0
+AnchorPoint: "HamzaBelow" 74 -263 basechar 0
+AnchorPoint: "TwoDotsBelow" 75 -265 basechar 0
+AnchorPoint: "TashkilAbove" 150 1640 basechar 0
+AnchorPoint: "TashkilBelow" 201 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -15,7 +29,7 @@ SplineSet
  -29 590 -29 590 -30 640 c 1,10,11
  -30 762 -30 762 -229 946 c 0,12,13
  -251 966 -251 966 -256 975 c 128,-1,14
- -261 984 -261 984 -263 1002 c 1
+ -261 984 -261 984 -263 1002 c 1,15,-1
  -266 1139 l 2,0,1
 EndSplineSet
 Fore

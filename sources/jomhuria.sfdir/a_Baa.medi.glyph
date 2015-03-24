@@ -2,6 +2,19 @@ StartChar: aBaa.medi
 Encoding: 1114122 -1 10
 Width: 500
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 120 740 basechar 0
+AnchorPoint: "TwoDotsBelow" 160 -250 basechar 0
+AnchorPoint: "TashkilBelow" 240 -670 basechar 0
+AnchorPoint: "RingBelow" 250 120 basechar 0
+AnchorPoint: "TaaAbove" 250 670 basechar 0
+AnchorPoint: "HamzaAbove" 250 740 basechar 0
+AnchorPoint: "VAbove" 250 740 basechar 0
+AnchorPoint: "DotAbove" 250 870 basechar 0
+AnchorPoint: "DigitAbove" 250 870 basechar 0
+AnchorPoint: "TashkilAbove" 250 1640 basechar 0
+AnchorPoint: "DotBelow" 260 -350 basechar 0
+AnchorPoint: "DigitBelow" 260 -350 basechar 0
+AnchorPoint: "HighHamza" 350 740 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11,7 +24,7 @@ SplineSet
  523 0 523 0 500 0 c 0,5,6
  390 -1 390 -1 278 124 c 1,7,8
  187 13 187 13 0 0 c 0,9,10
- -19 -1 -19 -1 -26 31 c 2
+ -19 -1 -19 -1 -26 31 c 2,11,-1
  -44 116 l 2,12,13
  -49 137 -49 137 -35.5 160 c 128,-1,14
  -22 183 -22 183 0 185 c 0,15,16

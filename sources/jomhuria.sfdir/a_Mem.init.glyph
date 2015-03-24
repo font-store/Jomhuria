@@ -2,12 +2,14 @@ StartChar: aMem.init
 Encoding: 1114148 -1 36
 Width: 797
 Flags: HW
+AnchorPoint: "TashkilBelow" 400 -670 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
 477 652 m 1,0,1
  614 650 614 650 667 311 c 0,2,3
- 670 288 670 288 661 277 c 2
+ 670 288 670 288 661 277 c 2,4,-1
  549 135 l 2,5,6
  533 114 533 114 510 121 c 0,7,8
  351 167 351 167 232 268 c 1,9,10

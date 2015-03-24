@@ -2,6 +2,14 @@ StartChar: aGaf.fina
 Encoding: 1118822 -1 5804
 Width: 2319
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 1218 1450 basechar 0
+AnchorPoint: "DotAbove" 1328 1450 basechar 0
+AnchorPoint: "TashkilAbove" 1672 1640 basechar 0
+AnchorPoint: "Dash" 1698 1580 basechar 0
+AnchorPoint: "TashkilBelow" 1722 -670 basechar 0
+AnchorPoint: "TwoDotsBelow" 1762 -200 basechar 0
+AnchorPoint: "RingBelow" 1764 1343 basechar 0
+AnchorPoint: "DotBelow" 1872 -200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -12,7 +20,7 @@ SplineSet
  1430 1332 1430 1332 2227 1660 c 0,8,9
  2244 1667 2244 1667 2255 1667 c 0,10,11
  2274 1667 2274 1667 2273 1646 c 0,12,13
- 2273 1636.66699219 2273 1636.66699219 2271 1628 c 2
+ 2273 1636.66699219 2273 1636.66699219 2271 1628 c 2,14,-1
  2241 1498 l 2,15,16
  2235.26074219 1473.13085938 2235.26074219 1473.13085938 2209 1460 c 0,17,18
  1497 1110 1497 1110 1252 874 c 1,19,20

@@ -2,6 +2,10 @@ StartChar: uni08E4
 Encoding: 2276 2276 6068
 Width: 0
 Flags: HW
+AnchorPoint: "TashkilTashkilAbove" 297 1955 basemark 0
+AnchorPoint: "MarkAbove" 549 1640 mark 0
+AnchorPoint: "TashkilAbove" 556 1640 mark 0
+AnchorPoint: "TashkilAboveDot" 556 1640 mark 0
 LayerCount: 2
 Back
 SplineSet

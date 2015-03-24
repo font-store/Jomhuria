@@ -2,6 +2,15 @@ StartChar: aSen.init_SenHaaInit
 Encoding: 1114240 -1 129
 Width: 1319
 Flags: HW
+AnchorPoint: "cursive" 0 457 exit 0
+AnchorPoint: "TwoDotsAbove" 741 1163 basechar 0
+AnchorPoint: "TwoDotsBelow" 802 -100 basechar 0
+AnchorPoint: "DotAbove" 852 1263 basechar 0
+AnchorPoint: "VAbove" 852 1263 basechar 0
+AnchorPoint: "DigitAbove" 852 1263 basechar 0
+AnchorPoint: "TashkilAbove" 852 1640 basechar 0
+AnchorPoint: "DotBelow" 902 -100 basechar 0
+AnchorPoint: "TashkilBelow" 930 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -34,7 +43,7 @@ SplineSet
  1030 715 1030 715 1081 717 c 0,43,44
  1091 717 1091 717 1092.5 742 c 128,-1,45
  1094 767 1094 767 1081.5 796.5 c 128,-1,46
- 1069 826 1069 826 1079 839 c 2
+ 1069 826 1069 826 1079 839 c 2,47,-1
  1156 939 l 2,0,1
 EndSplineSet
 Fore

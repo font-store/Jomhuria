@@ -2,6 +2,8 @@ StartChar: aKaf.isol.alt
 Encoding: 1114305 -1 201
 Width: 3890
 Flags: HW
+AnchorPoint: "TashkilAbove" 1108 1640 basechar 0
+AnchorPoint: "TashkilBelow" 2812 -670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -17,7 +19,7 @@ SplineSet
  701 556 701 556 716 588 c 0,16,17
  770 703 770 703 835 770 c 0,18,19
  1172 1112 1172 1112 1780 1287 c 1,20,21
- 1814 1295 1814 1295 1809 1269 c 2
+ 1814 1295 1814 1295 1809 1269 c 2,22,-1
  1779 1123 l 1,23,24
  1774 1104 1774 1104 1752 1098 c 0,25,26
  1477 1020 1477 1020 1233.5 903 c 128,-1,27

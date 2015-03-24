@@ -2,6 +2,15 @@ StartChar: aKaf.fina_LamKafFina
 Encoding: 1114442 -1 425
 Width: 1666
 Flags: HW
+AnchorPoint: "TwoDotsBelow" 640 -270 basechar 0
+AnchorPoint: "HamzaAbove" 744 583 basechar 0
+AnchorPoint: "TashkilBelow" 750 -670 basechar 0
+AnchorPoint: "DotBelow" 750 -270 basechar 0
+AnchorPoint: "TashkilAbove" 750 1640 basechar 0
+AnchorPoint: "RingBelow" 770 20 basechar 0
+AnchorPoint: "TwoDotsAbove" 1240 1630 basechar 0
+AnchorPoint: "DotAbove" 1420 1630 basechar 0
+AnchorPoint: "Dash" 1428 1377 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -25,7 +34,7 @@ SplineSet
  1115 151 1115 151 1326 279 c 0,30,31
  1440 348 1440 348 1427 442 c 0,32,33
  1391 699 1391 699 1348 1185 c 0,34,35
- 1346 1218 1346 1218 1352 1238 c 2
+ 1346 1218 1346 1218 1352 1238 c 2,36,-1
  1389 1347 l 1,0,1
 EndSplineSet
 Fore

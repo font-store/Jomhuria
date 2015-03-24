@@ -2,6 +2,8 @@ StartChar: aHeh.medi
 Encoding: 1114136 -1 24
 Width: 800
 Flags: HW
+AnchorPoint: "TashkilBelow" 400 -670 basechar 0
+AnchorPoint: "TashkilAbove" 400 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -16,8 +18,8 @@ SplineSet
  674 -90 674 -90 661 -259 c 0,16,17
  655 -332 655 -332 604 -401 c 128,-1,18
  553 -470 553 -470 482 -471 c 0,19,20
- 261 -474 261 -474 216 -55 c 1
- 157 -47 l 1
+ 261 -474 261 -474 216 -55 c 1,21,-1
+ 157 -47 l 1,22,-1
  158 51 l 1,23,24
  57 0 57 0 0 0 c 0,25,26
  -40 0 -40 0 -57 138 c 0,27,28

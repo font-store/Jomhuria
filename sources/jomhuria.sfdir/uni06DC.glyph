@@ -4,6 +4,8 @@ Width: 0
 VWidth: 3956
 GlyphClass: 4
 Flags: HW
+AnchorPoint: "SeenAbove" 510 2700 mark 0
+AnchorPoint: "MarkAbove" 589 2600 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -40,7 +42,7 @@ SplineSet
  877 3367 877 3367 866 3307 c 1,52,53
  913 3272 913 3272 971 3278 c 1,54,55
  972 3296 972 3296 965.5 3303.5 c 128,-1,56
- 959 3311 959 3311 961 3317 c 2
+ 959 3311 959 3311 961 3317 c 2,57,-1
  982 3403 l 2,0,1
 EndSplineSet
 Fore

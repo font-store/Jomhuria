@@ -2,6 +2,18 @@ StartChar: aHaa.medi_1LamHaaHaaInit
 Encoding: 1114289 -1 181
 Width: 231
 Flags: HW
+AnchorPoint: "cursive" 0 473 exit 0
+AnchorPoint: "TashkilAbove" 391 1640 basechar 0
+AnchorPoint: "TashkilBelow" 461 -670 basechar 0
+AnchorPoint: "TwoDotsBelow" 900 -280 basechar 0
+AnchorPoint: "TwoDotsAbove" 900 1210 basechar 0
+AnchorPoint: "DotBelow" 1011 -280 basechar 0
+AnchorPoint: "HamzaBelow" 1011 -280 basechar 0
+AnchorPoint: "DigitBelow" 1011 -280 basechar 0
+AnchorPoint: "TaaBelow" 1011 120 basechar 0
+AnchorPoint: "DotAbove" 1011 1210 basechar 0
+AnchorPoint: "HamzaAbove" 1011 1210 basechar 0
+AnchorPoint: "TaaAbove" 1011 1210 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9,7 +21,7 @@ SplineSet
  163 948 163 948 198 955 c 0,2,3
  307 977 307 977 685 832 c 0,4,5
  801 788 801 788 1088 735 c 0,6,7
- 1119 729 1119 729 1104 704 c 2
+ 1119 729 1119 729 1104 704 c 2,8,-1
  1036 587 l 2,9,10
  1029 575 1029 575 1016 578 c 0,11,12
  818 624 818 624 652 618 c 0,13,14

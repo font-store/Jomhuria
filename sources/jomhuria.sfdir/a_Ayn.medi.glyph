@@ -2,6 +2,12 @@ StartChar: aAyn.medi
 Encoding: 1114118 -1 6
 Width: 750
 Flags: HW
+AnchorPoint: "TwoDotsAbove" 149 1000 basechar 0
+AnchorPoint: "DotAbove" 260 1000 basechar 0
+AnchorPoint: "HamzaAbove" 260 1000 basechar 0
+AnchorPoint: "TashkilBelow" 300 -670 basechar 0
+AnchorPoint: "DotBelow" 320 -200 basechar 0
+AnchorPoint: "TashkilAbove" 350 1640 basechar 0
 LayerCount: 2
 Back
 SplineSet
