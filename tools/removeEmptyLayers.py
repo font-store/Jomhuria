@@ -9,11 +9,23 @@ import os
 def removeEmptyBack(filename):
     file = open(filename, 'r+')
     content = file.read()
+    changed = False
+
     pos = content.find('Back\nFore');
-    if pos == -1:
+    if pos != -1:
+        content = content[:pos] + content[pos + len('Back\n'):]
+        changed = True
+        print 'found Back', filename
+
+    pos = content.find('Fore\nColour');
+    if pos != -1:
+        content = content[:pos] + content[pos + len('Fore\n'):]
+        changed = True
+        print 'found Fore', filename
+
+    if not changed:
         return
-    content = content[:pos] + content[pos + len('Back\n'):]
-    print 'found', filename
+
     file.seek(0)
     file.truncate()
     file.write(content)
