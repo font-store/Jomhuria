@@ -1,9 +1,0 @@
-
-lookup SSShaddaKasra {
-  sub uni064D by uni064D.small;
-  sub uni0650 by uni0650.small;
-} SSShaddaKasra;
-
-feature ss01 {
-  sub uni0651 [uni064D uni0650]' lookup SSShaddaKasra;
-} ss01;
